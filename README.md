@@ -423,3 +423,6 @@ set writer(updatedAuthor){
  this._author = updatedAuthor;
  }
 }
+
+49. prompt : to display prompt message on webpage to take inputs or alert
+alert: to display message like prompt as alert
