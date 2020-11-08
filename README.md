@@ -427,5 +427,10 @@ set writer(updatedAuthor){
 49. prompt : to display prompt message on webpage to take inputs or alert
 alert: to display message like prompt as alert
 
+**Theme:Ayu Mirage
+**Icon: Material Icon Theme, VScode-icons
+
 <!-- run at vs code with options: open with live server(p.s. download live server via extensions menu) -->
 <!--For additional JavaScript tutorial recommended site: edureka-->
+
+
